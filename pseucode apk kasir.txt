@@ -1,0 +1,15 @@
+Write(“ Selamat datang”);
+Write(“ Silahkan masukkan kode barang yang dibeli oleh kustomer”);
+Write(“ Masukkan 4 DIGIT kode barang: ”);
+Write(“Contoh: Dancow: 7789”);
+Read (kodebrng)
+If kodebrg = 1 then
+Write (“ Terima Kasih”)
+Total pembayaran= harga * jumlah barang
+Write (“total harga :”+ total pembayaran);
+Write ( “ Masukkan uang yang dibayar:” );
+TUNAI=ok.nextInt();
+Kembalian uang= (TUNAI-totalpembayaran);
+Write(“kembalian uang :  ‘’ + “Rp’’ +kembali);
+Readkembali
+Write(“TERIMA KASIH TELAH MENGUNJUNGI’’);
